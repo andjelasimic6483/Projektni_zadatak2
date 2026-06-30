@@ -1,0 +1,2 @@
+Kupovina: 1e+06 RSD -> 8064.52 CHF (kurs: 124)
+Prodaja: 400000 EUR -> 4.7e+07 RSD (kurs: 117.5)
